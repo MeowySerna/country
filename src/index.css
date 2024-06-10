@@ -1,0 +1,27 @@
+@import url(blocks/root/root.css);
+
+@import url(vendor/fonts/fonts.css);
+
+@import url(vendor/normalize/normalize.css);
+
+@import url(blocks/background/background.css);
+
+@import url(blocks/select/select.css);
+@import url(blocks/select/__title/select__title.css);
+@import url(blocks/select/__input/select__input.css);
+@import url(blocks/select/__button/select__button.css);
+
+@import url(blocks/info/info.css);
+@import url(blocks/info/__country-flag/info__country-flag.css);
+@import url(blocks/info/__country-title/info__country-title.css);
+@import url(blocks/info/__title/info__title.css);
+@import url(blocks/info/__container/info__container.css);
+@import url(blocks/info/__link/info__link.css);
+@import url(blocks/info/__text/info__text.css);
+
+.start{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    cursor: pointer;
+}

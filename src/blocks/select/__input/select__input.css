@@ -1,0 +1,10 @@
+.select__input{
+    border: 0;
+    outline: 0;
+    background: none;
+    margin-top: 40px;
+    border-bottom: 2px solid;
+    font-size: 20px;
+    color: rgb(55, 67, 117);
+    text-align: center;
+}

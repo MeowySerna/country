@@ -1,0 +1,10 @@
+.info__link {
+  margin-top: 10px;
+  font-size: 18px;
+  color: rgb(55, 67, 117);
+  transition: opacity 0.3s linear;
+}
+.info__link:hover {
+  opacity: 0.8;
+}
+
